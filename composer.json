@@ -15,6 +15,6 @@
         "mikey179/vfsStream": "*"
     },
     "require-dev": {
-        "satooshi/php-coveralls": "v0.7.1"
+        "satooshi/php-coveralls": "^1.0"
     }
 }
